@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />, I'm Kevin Kimani</h1>
+ <h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />, I'm Kevin Kimani</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack Expert | Technical Writer</h3>
 
